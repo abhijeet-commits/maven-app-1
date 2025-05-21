@@ -82,7 +82,7 @@
                     <button class="docker-button"><i class="fab fa-docker"></i> Docker - Basics to Brilliance</button>
                 </a>
                 <a href="https://www.linkedin.com/in/kastro-kiran/" target="_blank">
-                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Kastro - LinkedIn</button>
+                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> ABHIJEET - LinkedIn</button>
                 </a>
             </p>
         </div>
